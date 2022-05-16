@@ -5,6 +5,6 @@ wpeinit
 
 #I have the script on my USB under Sources.
 
-for %%p in (a b c d e f g h i j k l m n o p q r s t u v w x y z) do if exist %%p:sources\start.bat set w=%%p
+for %%p in (a b c d e f g h i j k l m n o p q r s t u v w x y z) do if exist %%p:sources\Image.bat set w=%%p
 copy %w%:\sources\image.bat x:\image.bat
 call x:\image.bat
