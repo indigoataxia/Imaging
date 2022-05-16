@@ -4,7 +4,7 @@ CLS
 setlocal enabledelayedexpansion
 set count=0
 
-for %%n in (a b c d e f g h i j k l m n o p q r s t u v w x y z) do if exist %%n:\sources\start.bat set o=%%n
+for %%n in (a b c d e f g h i j k l m n o p q r s t u v w x y z) do if exist %%n:\sources\Image.bat set o=%%n
 pushd %o%:\images
 
 for /F "skip=1 delims=" %%A in (
