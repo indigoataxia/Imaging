@@ -12,3 +12,7 @@ So start with mounting the Boot.WIM from the WinPE and editing that startnet.cmd
 
 
 USB Wim Deployment
+
+![image](https://user-images.githubusercontent.com/12549223/168817516-6a655fc5-b522-469b-9926-313f4ab89107.png)
+
+![image](https://user-images.githubusercontent.com/12549223/168817569-c186e19f-fd42-4442-8c06-cc4ff8d58266.png)
